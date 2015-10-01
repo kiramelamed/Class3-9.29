@@ -1,0 +1,12 @@
+h1 {
+	font-size: 35px;
+}
+
+.block {
+	background-color: purple;
+	height: 300px;
+}
+
+p {
+	line-height: 30px;
+}
